@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @batraa4
-- 👀 I’m interested in Data Science, Machine Learning, NLP
+- 👀 I’m interested in Linguistics & NLP
 - 🌱 I’m currently learning Linguistics, Computational Linguistics/ NLP, Machine Learning, Data Structures
 - 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me: batraa@uw.edu
